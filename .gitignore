@@ -1,0 +1,24 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Archivos generados
+data/processed/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+
+# Archivos de Jupyter
+.ipynb/
+
+# Configuración de VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs y temporales
+*.log
+*.tmp

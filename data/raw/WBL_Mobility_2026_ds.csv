@@ -1,0 +1,202 @@
+country_code,country_name,year,wb_region,wb_income_group,overall_mobility_score,legal_frameworks_score,law_can_choose_where_to_live,law_can_travel_internationally,law_can_leave_marital_home,law_equal_citizenship_rights,supportive_frameworks_score,sfr_equal_id_document_process,sfr_equal_passport_process,sfr_gender_sensitive_transport_policy,sfr_free_from_govt_mobility_constraints,enforcement_perceptions_score,enf_right_to_choose_where_to_live,enf_right_to_travel_internationally,enf_right_to_leave_marital_home,enf_equal_citizenship_rights,has_enforcement_data
+AUS,Australia,2026,East Asia & Pacific,High income,100.0,100.0,1.0,1.0,1.0,1.0,100.0,1.0,1.0,1.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+AUT,Austria,2026,Europe & Central Asia,High income,100.0,100.0,1.0,1.0,1.0,1.0,100.0,1.0,1.0,1.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+FIN,Finland,2026,Europe & Central Asia,High income,100.0,100.0,1.0,1.0,1.0,1.0,100.0,1.0,1.0,1.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+ESP,Spain,2026,Europe & Central Asia,High income,100.0,100.0,1.0,1.0,1.0,1.0,100.0,1.0,1.0,1.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+FRA,France,2026,Europe & Central Asia,High income,100.0,100.0,1.0,1.0,1.0,1.0,100.0,1.0,1.0,1.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+CZE,Czechia,2026,Europe & Central Asia,High income,100.0,100.0,1.0,1.0,1.0,1.0,100.0,1.0,1.0,1.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+CHL,Chile,2026,Latin America & Caribbean,High income,100.0,100.0,1.0,1.0,1.0,1.0,100.0,1.0,1.0,1.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+MLT,Malta,2026,Middle East & North Africa,High income,100.0,100.0,1.0,1.0,1.0,1.0,100.0,1.0,1.0,1.0,1.0,,,,,,0
+JPN,Japan,2026,East Asia & Pacific,High income,100.0,100.0,1.0,1.0,1.0,1.0,100.0,1.0,1.0,1.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+PER,Peru,2026,Latin America & Caribbean,Upper middle income,100.0,100.0,1.0,1.0,1.0,1.0,100.0,1.0,1.0,1.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+RWA,Rwanda,2026,Sub-Saharan Africa,Low income,100.0,100.0,1.0,1.0,1.0,1.0,100.0,1.0,1.0,1.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+SLV,El Salvador,2026,Latin America & Caribbean,Lower middle income,100.0,100.0,1.0,1.0,1.0,1.0,100.0,1.0,1.0,1.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+SWE,Sweden,2026,Europe & Central Asia,High income,100.0,100.0,1.0,1.0,1.0,1.0,100.0,1.0,1.0,1.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+TWN,"Taiwan, China",2026,East Asia & Pacific,High income,100.0,100.0,1.0,1.0,1.0,1.0,100.0,1.0,1.0,1.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+MEX,Mexico,2026,Latin America & Caribbean,Upper middle income,100.0,100.0,1.0,1.0,1.0,1.0,100.0,1.0,1.0,1.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+CAN,Canada,2026,North America,High income,98.96,100.0,1.0,1.0,1.0,1.0,100.0,1.0,1.0,1.0,1.0,96.88,3.5,4.0,4.0,4.0,1
+ECU,Ecuador,2026,Latin America & Caribbean,Upper middle income,96.87666666666667,100.0,1.0,1.0,1.0,1.0,100.0,1.0,1.0,1.0,1.0,90.63,4.0,4.0,3.5,3.0,1
+ETH,Ethiopia,2026,Sub-Saharan Africa,Low income,95.83333333333333,100.0,1.0,1.0,1.0,1.0,87.5,1.0,1.0,0.5,1.0,100.0,4.0,4.0,4.0,4.0,1
+TUR,Turkiye,2026,Europe & Central Asia,Upper middle income,95.83333333333333,100.0,1.0,1.0,1.0,1.0,87.5,1.0,1.0,0.5,1.0,100.0,4.0,4.0,4.0,4.0,1
+ISR,Israel,2026,Middle East & North Africa,High income,95.83333333333333,100.0,1.0,1.0,1.0,1.0,87.5,1.0,1.0,0.5,1.0,100.0,4.0,4.0,4.0,4.0,1
+NAM,Namibia,2026,Sub-Saharan Africa,Upper middle income,95.83333333333333,100.0,1.0,1.0,1.0,1.0,87.5,1.0,1.0,0.5,1.0,100.0,4.0,4.0,4.0,4.0,1
+OEC,High income: OECD,2026,Unknown,Unknown,94.13666666666666,100.0,1.0,1.0,1.0,1.0,82.72,1.0,1.0,0.31,1.0,99.69,3.97,4.0,4.0,3.98,1
+BLZ,Belize,2026,Latin America & Caribbean,Upper middle income,93.75,100.0,1.0,1.0,1.0,1.0,87.5,1.0,1.0,0.5,1.0,,,,,,0
+MDA,Moldova,2026,Europe & Central Asia,Upper middle income,93.75,100.0,1.0,1.0,1.0,1.0,87.5,1.0,1.0,0.5,1.0,93.75,3.5,4.0,3.5,4.0,1
+GHA,Ghana,2026,Sub-Saharan Africa,Lower middle income,93.23,87.5,1.0,1.0,1.0,0.5,100.0,1.0,1.0,1.0,1.0,92.19,4.0,4.0,4.0,2.75,1
+BIH,Bosnia and Herzegovina,2026,Europe & Central Asia,Upper middle income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+CHE,Switzerland,2026,Europe & Central Asia,High income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+CHN,China,2026,East Asia & Pacific,Upper middle income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+COL,Colombia,2026,Latin America & Caribbean,Upper middle income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+ALB,Albania,2026,Europe & Central Asia,Upper middle income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+AGO,Angola,2026,Sub-Saharan Africa,Lower middle income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+ARG,Argentina,2026,Latin America & Caribbean,Upper middle income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+DNK,Denmark,2026,Europe & Central Asia,High income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+DEU,Germany,2026,Europe & Central Asia,High income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+CRI,Costa Rica,2026,Latin America & Caribbean,Upper middle income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+BWA,Botswana,2026,Sub-Saharan Africa,Upper middle income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+AZE,Azerbaijan,2026,Europe & Central Asia,Upper middle income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+BRA,Brazil,2026,Latin America & Caribbean,Upper middle income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+BLR,Belarus,2026,Europe & Central Asia,Upper middle income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+BGR,Bulgaria,2026,Europe & Central Asia,Upper middle income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+BEL,Belgium,2026,Europe & Central Asia,High income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+HUN,Hungary,2026,Europe & Central Asia,High income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+IRL,Ireland,2026,Europe & Central Asia,High income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+ITA,Italy,2026,Europe & Central Asia,High income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+ISL,Iceland,2026,Europe & Central Asia,High income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+HRV,Croatia,2026,Europe & Central Asia,High income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+NLD,Netherlands,2026,Europe & Central Asia,High income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+PRT,Portugal,2026,Europe & Central Asia,High income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+PRI,Puerto Rico,2026,Unknown,High income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+UKR,Ukraine,2026,Europe & Central Asia,Lower middle income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+URY,Uruguay,2026,Latin America & Caribbean,High income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+VEN,"Venezuela, RB",2026,Latin America & Caribbean,Upper middle income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+NOR,Norway,2026,Europe & Central Asia,High income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+MNG,Mongolia,2026,East Asia & Pacific,Lower middle income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+NIC,Nicaragua,2026,Latin America & Caribbean,Lower middle income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+LVA,Latvia,2026,Europe & Central Asia,High income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+LTU,Lithuania,2026,Europe & Central Asia,High income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+HKG,"Hong Kong SAR, China",2026,Unknown,Unknown,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+JAM,Jamaica,2026,Latin America & Caribbean,Upper middle income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+KNA,St. Kitts and Nevis,2026,Unknown,Unknown,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+GEO,Georgia,2026,Europe & Central Asia,Upper middle income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+GRD,Grenada,2026,Unknown,Unknown,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+DOM,Dominican Republic,2026,Latin America & Caribbean,Upper middle income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+GBR,United Kingdom,2026,Europe & Central Asia,High income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+VNM,Viet Nam,2026,East Asia & Pacific,Lower middle income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+SVN,Slovenia,2026,Europe & Central Asia,High income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+ROU,Romania,2026,Europe & Central Asia,High income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+ZAF,South Africa,2026,Sub-Saharan Africa,Upper middle income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+USA,United States,2026,North America,High income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+POL,Poland,2026,Europe & Central Asia,High income,91.66666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+UGA,Uganda,2026,Sub-Saharan Africa,Low income,91.14666666666666,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,98.44,4.0,3.75,4.0,4.0,1
+CPV,Cabo Verde,2026,Sub-Saharan Africa,Lower middle income,90.62666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,96.88,4.0,4.0,3.5,4.0,1
+EST,Estonia,2026,Europe & Central Asia,High income,90.62666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,96.88,4.0,4.0,4.0,3.5,1
+LAO,Lao PDR,2026,East Asia & Pacific,Lower middle income,90.62666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,96.88,4.0,3.5,4.0,4.0,1
+SYC,Seychelles,2026,Sub-Saharan Africa,High income,90.62666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,96.88,4.0,4.0,4.0,3.5,1
+GRC,Greece,2026,Europe & Central Asia,High income,90.62666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,96.88,3.5,4.0,4.0,4.0,1
+MKD,North Macedonia,2026,Europe & Central Asia,Upper middle income,90.62666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,96.88,4.0,4.0,4.0,3.5,1
+BOL,Bolivia,2026,Latin America & Caribbean,Lower middle income,90.62666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,96.88,3.5,4.0,4.0,4.0,1
+ECS,Europe & Central Asia,2026,Unknown,Unknown,90.34333333333332,100.0,1.0,1.0,1.0,1.0,76.09,1.0,1.0,0.04,1.0,94.94,3.64,3.93,3.79,3.83,1
+KEN,Kenya,2026,Sub-Saharan Africa,Lower middle income,89.58333333333333,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,93.75,4.0,4.0,4.0,3.0,1
+ARM,Armenia,2026,Europe & Central Asia,Upper middle income,89.58333333333333,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,93.75,3.0,4.0,4.0,4.0,1
+XKX,Kosovo,2026,Europe & Central Asia,Upper middle income,89.58333333333333,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,93.75,3.0,4.0,4.0,4.0,1
+KGZ,Kyrgyz Republic,2026,Europe & Central Asia,Lower middle income,89.58333333333333,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,93.75,3.0,4.0,4.0,4.0,1
+MUS,Mauritius,2026,Sub-Saharan Africa,Upper middle income,89.58333333333333,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,93.75,3.5,4.0,4.0,3.5,1
+SMR,San Marino,2026,Unknown,Unknown,89.58333333333333,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,93.75,4.0,4.0,4.0,3.0,1
+MOZ,Mozambique,2026,Sub-Saharan Africa,Low income,89.58333333333333,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,93.75,4.0,4.0,4.0,3.0,1
+SRB,Serbia,2026,Europe & Central Asia,Upper middle income,89.06333333333333,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,92.19,3.0,3.75,4.0,4.0,1
+CYP,Cyprus,2026,Europe & Central Asia,High income,89.06333333333333,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,92.19,4.0,3.75,4.0,3.0,1
+GIN,Guinea,2026,Sub-Saharan Africa,Low income,88.54333333333334,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,90.63,3.0,4.0,3.5,4.0,1
+PAN,Panama,2026,Latin America & Caribbean,High income,88.54333333333334,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,90.63,2.5,4.0,4.0,4.0,1
+TLS,Timor-Leste,2026,East Asia & Pacific,Lower middle income,88.54333333333334,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,90.63,4.0,3.5,4.0,3.0,1
+HND,Honduras,2026,Latin America & Caribbean,Lower middle income,88.54333333333334,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,90.63,3.5,4.0,3.5,3.5,1
+HIC,High income,2026,Unknown,Unknown,87.79666666666667,90.28,0.87,0.97,0.92,0.85,76.39,1.0,0.94,0.21,0.9,96.72,3.83,3.93,3.98,3.73,1
+STP,Sao Tome and Principe,2026,Sub-Saharan Africa,Lower middle income,87.5,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,87.5,3.0,4.0,3.0,4.0,1
+PRY,Paraguay,2026,Latin America & Caribbean,Upper middle income,87.5,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,87.5,3.5,3.5,3.5,3.5,1
+UZB,Uzbekistan,2026,Europe & Central Asia,Lower middle income,87.5,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,87.5,3.0,4.0,3.0,4.0,1
+SVK,Slovak Republic,2026,Europe & Central Asia,High income,87.5,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,,,,,,0
+MNE,Montenegro,2026,Europe & Central Asia,Upper middle income,87.5,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,,,,,,0
+NZL,New Zealand,2026,East Asia & Pacific,High income,87.5,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,,,,,,0
+IDN,Indonesia,2026,East Asia & Pacific,Upper middle income,87.5,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,87.5,3.0,4.0,4.0,3.0,1
+PLW,Palau,2026,East Asia & Pacific,High income,87.5,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,,,,,,0
+KAZ,Kazakhstan,2026,Europe & Central Asia,Upper middle income,87.5,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,,,,,,0
+LUX,Luxembourg,2026,Europe & Central Asia,High income,87.5,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,,,,,,0
+KOR,"Korea, Rep.",2026,East Asia & Pacific,High income,87.5,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,,,,,,0
+LCN,Latin America & Caribbean,2026,Unknown,Unknown,87.44333333333334,95.31,0.94,0.98,1.0,0.89,71.48,0.97,0.75,0.14,1.0,95.54,3.8,3.88,3.93,3.67,1
+ERI,Eritrea,2026,Sub-Saharan Africa,Low income,86.98,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,85.94,3.5,3.25,3.5,3.5,1
+KHM,Cambodia,2026,East Asia & Pacific,Lower middle income,86.46,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,84.38,3.5,4.0,3.0,3.0,1
+RUS,Russian Federation,2026,Europe & Central Asia,Upper middle income,86.46,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,84.38,3.0,3.5,3.0,4.0,1
+ZMB,Zambia,2026,Sub-Saharan Africa,Lower middle income,85.41666666666667,100.0,1.0,1.0,1.0,1.0,62.5,1.0,0.0,0.5,1.0,93.75,3.5,4.0,3.5,4.0,1
+FSM,"Micronesia, Fed. Sts.",2026,East Asia & Pacific,Lower middle income,85.41666666666667,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,81.25,3.0,4.0,3.0,3.0,1
+GMB,"Gambia, The",2026,Sub-Saharan Africa,Low income,84.89666666666666,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,79.69,2.0,3.75,3.0,4.0,1
+PHL,Philippines,2026,East Asia & Pacific,Lower middle income,84.89666666666666,87.5,1.0,1.0,1.0,0.5,87.5,1.0,1.0,0.5,1.0,79.69,3.0,3.5,4.0,2.25,1
+MHL,Marshall Islands,2026,East Asia & Pacific,Upper middle income,84.89666666666666,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,79.69,3.0,3.25,3.0,3.5,1
+THA,Thailand,2026,East Asia & Pacific,Upper middle income,84.37666666666667,87.5,1.0,1.0,1.0,0.5,75.0,1.0,1.0,0.0,1.0,90.63,4.0,4.0,4.0,2.5,1
+UMC,Upper middle income,2026,Unknown,Unknown,84.25,91.67,0.92,0.94,0.94,0.86,69.85,0.94,0.82,0.11,0.92,91.23,3.62,3.76,3.69,3.52,1
+TUN,Tunisia,2026,Middle East & North Africa,Lower middle income,83.85333333333334,87.5,1.0,1.0,1.0,0.5,75.0,1.0,1.0,0.0,1.0,89.06,4.0,3.75,4.0,2.5,1
+MMR,Myanmar,2026,East Asia & Pacific,Lower middle income,83.33333333333333,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,75.0,3.0,3.0,3.0,3.0,1
+SGP,Singapore,2026,East Asia & Pacific,High income,83.33333333333333,87.5,1.0,1.0,1.0,0.5,75.0,1.0,1.0,0.0,1.0,87.5,4.0,4.0,4.0,2.0,1
+LSO,Lesotho,2026,Sub-Saharan Africa,Lower middle income,83.33333333333333,87.5,1.0,1.0,1.0,0.5,75.0,1.0,1.0,0.0,1.0,87.5,4.0,4.0,4.0,2.0,1
+LKA,Sri Lanka,2026,South Asia,Lower middle income,83.33333333333333,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,75.0,3.0,3.0,3.0,3.0,1
+ZWE,Zimbabwe,2026,Sub-Saharan Africa,Lower middle income,83.33333333333333,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,75.0,3.0,3.0,3.0,3.0,1
+ATG,Antigua and Barbuda,2026,Unknown,Unknown,83.33333333333333,75.0,0.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+CIV,Cote d'Ivoire,2026,Sub-Saharan Africa,Lower middle income,83.33333333333333,100.0,1.0,1.0,1.0,1.0,50.0,0.0,1.0,0.0,1.0,100.0,4.0,4.0,4.0,4.0,1
+GTM,Guatemala,2026,Latin America & Caribbean,Upper middle income,83.33333333333333,87.5,1.0,1.0,1.0,0.5,75.0,1.0,1.0,0.0,1.0,87.5,3.5,4.0,4.0,2.5,1
+SUR,Suriname,2026,Latin America & Caribbean,Upper middle income,82.81333333333333,100.0,1.0,1.0,1.0,1.0,50.0,1.0,0.0,0.0,1.0,98.44,4.0,3.75,4.0,4.0,1
+SLE,Sierra Leone,2026,Sub-Saharan Africa,Low income,82.29333333333334,87.5,1.0,1.0,1.0,0.5,75.0,1.0,1.0,0.0,1.0,84.38,3.5,4.0,3.5,2.5,1
+GUY,Guyana,2026,Latin America & Caribbean,Upper middle income,82.29333333333334,100.0,1.0,1.0,1.0,1.0,50.0,1.0,0.0,0.0,1.0,96.88,4.0,3.5,4.0,4.0,1
+TJK,Tajikistan,2026,Europe & Central Asia,Low income,82.29333333333334,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,71.88,3.0,3.5,2.0,3.0,1
+SSD,South Sudan,2026,Sub-Saharan Africa,Low income,82.29333333333334,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,71.88,3.0,3.0,2.5,3.0,1
+EAS,East Asia & Pacific,2026,Unknown,Unknown,81.65333333333332,89.5,0.88,1.0,0.92,0.78,72.5,0.96,0.88,0.06,1.0,82.96,3.25,3.67,3.5,2.85,1
+VUT,Vanuatu,2026,East Asia & Pacific,Lower middle income,81.25,75.0,0.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,93.75,3.0,4.0,4.0,4.0,1
+MDV,Maldives,2026,South Asia,Upper middle income,81.25,100.0,1.0,1.0,1.0,1.0,50.0,1.0,1.0,0.0,0.0,93.75,4.0,4.0,4.0,3.0,1
+COD,"Congo, Dem. Rep.",2026,Sub-Saharan Africa,Low income,80.73,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,67.19,2.0,3.75,2.0,3.0,1
+FJI,Fiji,2026,East Asia & Pacific,Upper middle income,80.21,100.0,1.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,65.63,3.0,3.0,3.0,1.5,1
+DJI,Djibouti,2026,Middle East & North Africa,Lower middle income,80.21,100.0,1.0,1.0,1.0,1.0,50.0,1.0,1.0,0.0,0.0,90.63,4.0,4.0,4.0,2.5,1
+IND,India,2026,South Asia,Lower middle income,80.21,75.0,0.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,90.63,4.0,4.0,3.0,3.5,1
+GNQ,Equatorial Guinea,2026,Sub-Saharan Africa,Upper middle income,79.16666666666667,75.0,0.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,87.5,2.0,4.0,4.0,4.0,1
+SSF,Sub-Saharan Africa,2026,Unknown,Unknown,78.70666666666666,84.64,0.67,0.98,0.98,0.76,69.53,0.94,0.9,0.11,0.83,81.95,2.95,3.78,3.39,2.99,1
+GAB,Gabon,2026,Sub-Saharan Africa,Upper middle income,78.64666666666666,100.0,1.0,1.0,1.0,1.0,50.0,1.0,0.0,0.0,1.0,85.94,3.0,3.75,3.0,4.0,1
+DMA,Dominica,2026,Unknown,Unknown,78.12666666666667,100.0,1.0,1.0,1.0,1.0,50.0,1.0,0.0,0.0,1.0,84.38,3.5,3.0,3.5,3.5,1
+LMC,Lower middle income,2026,Unknown,Unknown,77.68,83.75,0.74,0.97,0.94,0.7,67.5,0.96,0.86,0.1,0.78,81.79,3.18,3.7,3.34,2.9,1
+NGA,Nigeria,2026,Sub-Saharan Africa,Lower middle income,77.60333333333334,62.5,0.0,1.0,1.0,0.5,100.0,1.0,1.0,1.0,1.0,70.31,3.5,3.0,3.0,1.75,1
+BEN,Benin,2026,Sub-Saharan Africa,Low income,77.08333333333333,75.0,0.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,81.25,2.0,4.0,3.0,4.0,1
+MAR,Morocco,2026,Middle East & North Africa,Lower middle income,77.08333333333333,87.5,1.0,1.0,1.0,0.5,50.0,1.0,1.0,0.0,0.0,93.75,4.0,4.0,4.0,3.0,1
+NER,Niger,2026,Sub-Saharan Africa,Low income,77.08333333333333,75.0,0.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,81.25,2.0,4.0,3.0,4.0,1
+PNG,Papua New Guinea,2026,East Asia & Pacific,Lower middle income,77.08333333333333,100.0,1.0,1.0,1.0,1.0,50.0,1.0,0.0,0.0,1.0,81.25,3.0,4.0,3.0,3.0,1
+LBR,Liberia,2026,Sub-Saharan Africa,Low income,77.08333333333333,100.0,1.0,1.0,1.0,1.0,50.0,1.0,1.0,0.0,0.0,81.25,3.0,4.0,4.0,2.0,1
+BGD,Bangladesh,2026,South Asia,Lower middle income,76.04333333333334,87.5,1.0,1.0,1.0,0.5,50.0,1.0,1.0,0.0,0.0,90.63,4.0,4.0,3.5,3.0,1
+BFA,Burkina Faso,2026,Sub-Saharan Africa,Low income,75.52,75.0,0.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,76.56,1.0,3.75,3.5,4.0,1
+TCD,Chad,2026,Sub-Saharan Africa,Low income,75.0,75.0,0.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,75.0,1.0,4.0,3.0,4.0,1
+BTN,Bhutan,2026,South Asia,Lower middle income,75.0,75.0,1.0,1.0,1.0,0.0,75.0,1.0,1.0,0.0,1.0,75.0,4.0,4.0,4.0,0.0,1
+BHS,"Bahamas, The",2026,Latin America & Caribbean,High income,75.0,75.0,1.0,1.0,1.0,0.0,75.0,1.0,1.0,0.0,1.0,,,,,,0
+MLI,Mali,2026,Sub-Saharan Africa,Low income,75.0,75.0,0.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,75.0,1.0,4.0,3.0,4.0,1
+TON,Tonga,2026,East Asia & Pacific,Upper middle income,75.0,75.0,1.0,1.0,1.0,0.0,75.0,1.0,1.0,0.0,1.0,,,,,,0
+TZA,Tanzania,2026,Sub-Saharan Africa,Low income,75.0,87.5,1.0,1.0,1.0,0.5,50.0,1.0,1.0,0.0,0.0,87.5,3.5,4.0,3.5,3.0,1
+TTO,Trinidad and Tobago,2026,Latin America & Caribbean,High income,75.0,100.0,1.0,1.0,1.0,1.0,50.0,1.0,0.0,0.0,1.0,,,,,,0
+TGO,Togo,2026,Sub-Saharan Africa,Low income,72.91666666666667,75.0,1.0,1.0,1.0,0.0,75.0,1.0,1.0,0.0,1.0,68.75,3.0,4.0,4.0,0.0,1
+KIR,Kiribati,2026,East Asia & Pacific,Lower middle income,72.91666666666667,75.0,1.0,1.0,1.0,0.0,75.0,1.0,1.0,0.0,1.0,68.75,3.0,3.0,3.0,2.0,1
+MDG,Madagascar,2026,Sub-Saharan Africa,Low income,72.39666666666666,87.5,1.0,1.0,1.0,0.5,50.0,1.0,0.0,0.0,1.0,79.69,4.0,3.75,3.0,2.0,1
+BRB,Barbados,2026,Latin America & Caribbean,High income,70.83333333333333,75.0,1.0,1.0,1.0,0.0,50.0,1.0,0.0,0.0,1.0,87.5,4.0,4.0,4.0,2.0,1
+LIC,Low income,2026,Unknown,Unknown,70.31333333333333,73.44,0.5,0.9,0.88,0.67,64.58,0.92,0.83,0.08,0.75,72.92,2.46,3.55,3.11,2.63,1
+BDI,Burundi,2026,Sub-Saharan Africa,Low income,70.31333333333333,75.0,1.0,1.0,1.0,0.0,75.0,1.0,1.0,0.0,1.0,60.94,2.0,3.75,4.0,0.0,1
+LBN,Lebanon,2026,Middle East & North Africa,Lower middle income,69.79333333333334,75.0,1.0,1.0,1.0,0.0,50.0,1.0,1.0,0.0,0.0,84.38,3.0,3.5,3.0,4.0,1
+HTI,Haiti,2026,Latin America & Caribbean,Low income,69.79333333333334,75.0,0.0,1.0,1.0,1.0,50.0,1.0,0.0,0.0,1.0,84.38,2.5,4.0,4.0,3.0,1
+LCA,St. Lucia,2026,Unknown,Unknown,68.23,75.0,1.0,0.5,1.0,0.5,50.0,1.0,0.0,0.0,1.0,79.69,4.0,3.0,4.0,1.75,1
+CAF,Central African Republic,2026,Sub-Saharan Africa,Low income,67.71,62.5,0.0,1.0,1.0,0.5,75.0,1.0,1.0,0.0,1.0,65.63,1.0,4.0,3.0,2.5,1
+SLB,Solomon Islands,2026,East Asia & Pacific,Lower middle income,67.71,100.0,1.0,1.0,1.0,1.0,50.0,1.0,0.0,0.0,1.0,53.13,2.0,2.0,2.0,2.5,1
+SAS,South Asia,2026,Unknown,Unknown,67.66333333333334,75.0,0.62,0.88,0.88,0.62,53.12,0.88,0.75,0.0,0.5,74.87,3.12,3.57,3.06,2.44,1
+COM,Comoros,2026,Sub-Saharan Africa,Lower middle income,66.66666666666667,62.5,0.0,1.0,1.0,0.5,50.0,1.0,1.0,0.0,0.0,87.5,3.0,4.0,4.0,3.0,1
+DZA,Algeria,2026,Middle East & North Africa,Lower middle income,66.66666666666667,87.5,1.0,0.5,1.0,1.0,25.0,0.0,0.0,0.0,1.0,87.5,4.0,3.0,3.0,4.0,1
+MRT,Mauritania,2026,Sub-Saharan Africa,Lower middle income,66.66666666666667,75.0,1.0,1.0,1.0,0.0,50.0,1.0,1.0,0.0,0.0,75.0,4.0,4.0,4.0,0.0,1
+SWZ,Eswatini,2026,Sub-Saharan Africa,Lower middle income,65.62666666666667,75.0,1.0,1.0,1.0,0.0,75.0,1.0,1.0,0.0,1.0,46.88,2.0,2.5,2.0,1.0,1
+GNB,Guinea-Bissau,2026,Sub-Saharan Africa,Low income,65.62666666666667,75.0,0.0,1.0,1.0,1.0,75.0,1.0,1.0,0.0,1.0,46.88,3.0,2.0,1.0,1.5,1
+COG,"Congo, Rep.",2026,Sub-Saharan Africa,Lower middle income,65.62666666666667,62.5,0.0,1.0,1.0,0.5,75.0,1.0,1.0,0.0,1.0,59.38,0.5,4.0,3.0,2.0,1
+NPL,Nepal,2026,South Asia,Lower middle income,64.58333333333333,50.0,0.0,1.0,1.0,0.0,75.0,1.0,1.0,0.0,1.0,68.75,3.0,3.0,4.0,1.0,1
+SEN,Senegal,2026,Sub-Saharan Africa,Lower middle income,64.58333333333333,75.0,0.0,1.0,1.0,1.0,50.0,1.0,1.0,0.0,0.0,68.75,1.0,4.0,3.0,3.0,1
+MWI,Malawi,2026,Sub-Saharan Africa,Low income,63.54333333333333,62.5,0.0,1.0,1.0,0.5,50.0,1.0,0.0,1.0,0.0,78.13,3.0,4.0,3.5,2.0,1
+WSM,Samoa,2026,East Asia & Pacific,Lower middle income,62.5,100.0,1.0,1.0,1.0,1.0,25.0,0.0,0.0,0.0,1.0,,,,,,0
+SAU,Saudi Arabia,2026,Middle East & North Africa,High income,57.29333333333333,37.5,0.0,0.5,1.0,0.0,75.0,1.0,1.0,1.0,0.0,59.38,2.0,2.0,4.0,1.5,1
+PAK,Pakistan,2026,South Asia,Lower middle income,57.29333333333333,87.5,1.0,1.0,1.0,0.5,25.0,1.0,0.0,0.0,0.0,59.38,2.0,3.0,2.0,2.5,1
+VCT,St. Vincent and the Grenadines,2026,Unknown,Unknown,56.25,87.5,1.0,1.0,1.0,0.5,25.0,0.0,0.0,0.0,1.0,,,,,,0
+MEA,Middle East and North Africa,2026,Unknown,Unknown,53.89000000000001,43.12,0.35,0.68,0.5,0.2,51.88,0.95,0.7,0.17,0.25,66.67,2.82,2.92,2.83,2.09,1
+SYR,Syrian Arab Republic,2026,Middle East & North Africa,Low income,53.64666666666667,37.5,0.0,0.5,1.0,0.0,75.0,1.0,1.0,0.0,1.0,48.44,1.0,2.75,4.0,0.0,1
+SOM,Somalia,2026,Sub-Saharan Africa,Low income,52.083333333333336,50.0,0.0,1.0,1.0,0.0,50.0,1.0,1.0,0.0,0.0,56.25,2.0,3.0,2.0,2.0,1
+BRN,Brunei Darussalam,2026,East Asia & Pacific,High income,52.083333333333336,25.0,0.0,1.0,0.0,0.0,75.0,1.0,1.0,0.0,1.0,56.25,1.0,4.0,4.0,0.0,1
+LBY,Libya,2026,Middle East & North Africa,Upper middle income,52.083333333333336,62.5,1.0,0.5,1.0,0.0,25.0,1.0,0.0,0.0,0.0,68.75,4.0,1.5,3.0,2.5,1
+MYS,Malaysia,2026,East Asia & Pacific,Upper middle income,51.04333333333333,25.0,0.0,1.0,0.0,0.0,75.0,1.0,1.0,0.0,1.0,53.13,2.0,4.0,2.0,0.5,1
+EGY,"Egypt, Arab Rep.",2026,Middle East & North Africa,Lower middle income,50.0,25.0,0.0,1.0,0.0,0.0,62.5,1.0,0.0,0.5,1.0,62.5,,4.0,1.0,,1
+CMR,Cameroon,2026,Sub-Saharan Africa,Lower middle income,47.39666666666667,50.0,0.0,0.5,1.0,0.5,25.0,0.0,0.0,0.0,1.0,67.19,2.0,3.5,3.0,2.25,1
+ARE,United Arab Emirates,2026,Middle East & North Africa,High income,43.75,37.5,0.0,0.5,1.0,0.0,50.0,1.0,1.0,0.0,0.0,,,,,,0
+JOR,Jordan,2026,Middle East & North Africa,Upper middle income,40.626666666666665,12.5,0.0,0.5,0.0,0.0,75.0,1.0,1.0,1.0,0.0,34.38,1.5,3.0,1.0,0.0,1
+KWT,Kuwait,2026,Middle East & North Africa,High income,37.5,25.0,0.0,1.0,0.0,0.0,50.0,1.0,1.0,0.0,0.0,,,,,,0
+OMN,Oman,2026,Middle East & North Africa,High income,31.25,12.5,0.0,0.5,0.0,0.0,50.0,1.0,1.0,0.0,0.0,,,,,,0
+YEM,"Yemen, Rep.",2026,Middle East & North Africa,Low income,31.25,12.5,0.0,0.5,0.0,0.0,25.0,1.0,0.0,0.0,0.0,56.25,2.5,1.5,3.0,2.0,1
+QAT,Qatar,2026,Middle East & North Africa,High income,31.25,12.5,0.0,0.5,0.0,0.0,50.0,1.0,1.0,0.0,0.0,,,,,,0
+PSE,West Bank and Gaza,2026,Middle East & North Africa,Lower middle income,31.25,12.5,0.0,0.5,0.0,0.0,50.0,1.0,1.0,0.0,0.0,,,,,,0
+IRQ,Iraq,2026,Middle East & North Africa,Upper middle income,29.166666666666668,12.5,0.0,0.5,0.0,0.0,50.0,1.0,1.0,0.0,0.0,25.0,1.0,2.0,0.0,1.0,1
+BHR,Bahrain,2026,Middle East & North Africa,High income,25.0,25.0,0.0,1.0,0.0,0.0,25.0,1.0,0.0,0.0,0.0,,,,,,0
+AFG,Afghanistan,2026,South Asia,Low income,23.61,25.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,45.83,1.0,,1.0,3.5,1
+SDN,Sudan,2026,Sub-Saharan Africa,Low income,18.75,12.5,0.0,0.5,0.0,0.0,25.0,0.0,1.0,0.0,0.0,,,,,,0
+IRN,"Iran, Islamic Rep.",2026,Middle East & North Africa,Lower middle income,12.5,0.0,0.0,0.0,0.0,0.0,25.0,1.0,0.0,0.0,0.0,,,,,,0
